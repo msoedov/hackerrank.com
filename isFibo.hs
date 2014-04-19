@@ -1,4 +1,4 @@
---Input Format
+--Input Format	
 --
 --First line contains T, number of test cases.
 --T lines follows. Each line will contain an integer N.
